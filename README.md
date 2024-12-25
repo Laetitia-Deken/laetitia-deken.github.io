@@ -1,2 +1,2 @@
-# laetitiadeken.github.io
+# laetitia-deken.github.io
 Welcome to my portfolio!
