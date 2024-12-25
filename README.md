@@ -1,2 +1,2 @@
-# laetitiadeken-data-analyst.github.io
+# laetitiadeken.github.io
 Welcome to my portfolio!
