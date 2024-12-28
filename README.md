@@ -31,7 +31,7 @@ Celui-ci présente mes compétences, mes projets et d'autres informations pertin
   - Gratuit pour un usage personnel et commercial.
   - Vous devez créditer HTML5 UP.
  
-Original README from HTML5 UP:
+Original README:
 
 	Forty by HTML5 UP
 	html5up.net | @ajlkn
