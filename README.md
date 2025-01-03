@@ -1,4 +1,4 @@
-# Mon portfolio - laetitia-deken.github.io
+# Mon site web - laetitia-deken.github.io
 
 Bienvenue dans mon portfolio en ligne ! Vous y trouverez toutes les informations concernant mon parcours personnel et professionnel.
 
