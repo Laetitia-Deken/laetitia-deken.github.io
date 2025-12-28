@@ -3974,10 +3974,11 @@ input, select, textarea {
 		    margin: 0;
 		}
 
-		/* Footer : centrage des icônes sociales */
+		/* === Footer : centrage des icônes sociales === */
 		#footer .icons {
-		    justify-content: center;
-		    margin-top: 1.5em;
+		    text-align: center;
 		}
+
+
 
 
