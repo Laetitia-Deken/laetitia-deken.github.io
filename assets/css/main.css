@@ -3977,8 +3977,19 @@ input, select, textarea {
 		/* === Footer : centrage des icônes sociales === */
 		#footer .icons {
 		    text-align: center;
-		}
+				}
 
+		#footer ul.icons {
+		    display: flex;
+		    justify-content: center;
+		    padding: 0;
+		    margin: 1.5em 0 0 0;
+		}
+		
+		#footer ul.icons li {
+		    padding: 0 0.75em;
+		}
+		
 
 
 
